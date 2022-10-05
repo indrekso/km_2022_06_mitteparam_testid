@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+km_2022_06_kruskal*.R
+km_2022_06_k-s*.R
+km_2022_06_mitteparam_testid.R
+mittepar 2021.R
+slides/
+data/cronos/
